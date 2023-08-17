@@ -1,0 +1,40 @@
+/*!******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[5].oneOf[12].use[3]!./app/(components)/header/header.css ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************/
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+   
+}
+.imgies{
+    width: 70px;
+    position: relative;
+    left: 30px;
+    top: 15px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+}
+    ul{
+    display: flex;
+    list-style: none;
+    position: relative;
+    left: 35%;
+    bottom: 40px;
+
+    
+}
+li,a{
+    text-decoration: none;
+    margin: 20px;
+}
+li,a:hover{
+  font-size: 20px;
+    color: black;
+    cursor: pointer;
+}
+
