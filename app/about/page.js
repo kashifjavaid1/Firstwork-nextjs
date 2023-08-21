@@ -4,6 +4,7 @@ const About=()=>{
         <h1>
             About page
         </h1>
+        
         <img src="/imagies/abc.jpg"/>
         </>
     );
