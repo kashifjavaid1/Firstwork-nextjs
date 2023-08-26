@@ -5,7 +5,6 @@ const Bike=()=>{
         <h1>
             Bike sales this page
         </h1>
-        
         <img src={"/imagies/bike.jpg"}
          alt="Picture of the author"
          width={400} 
