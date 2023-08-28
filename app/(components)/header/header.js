@@ -6,7 +6,7 @@ const Header = () => {
                 <div className="logo"> <img className='imgies' src={"/imagies/download.jpg"}
                 alt="Picture of the author"
                /></div>
-                <ul > 
+                <ul >
                     <li> <a href="">Home</a></li>
                     <li> <a href="">About</a></li>
                     <li> <a href="">Gallery</a></li>
